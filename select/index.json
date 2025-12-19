@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ヒューマノイド",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-19T10:52:52.507631Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_ヒューマノイド_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_ヒューマノイド_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/03_ヒューマノイド_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヒューマノイド(Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_ヒューマノイド(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヒューマノイド (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/05_ヒューマノイド_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_ヒューマノイド_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_ヒューマノイド_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒューマノイド (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/08_ヒューマノイド_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヒューマノイド - Humanoid",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/09_ヒューマノイド_-_Humanoid_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_ヒューマノイド_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『ヒューマノイド』MV",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_ずっと真夜中でいいのに。『ヒューマノイド』MV_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒューマノイド (インスト)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/12_ヒューマノイド_(インスト)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/13_ヒューマノイド_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに",
+      "has_synced": true,
+      "path": "select/14_ヒューマノイド_ずっと真夜中でいいのに.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヒューマノイド",
+      "artist": "Zutto Mayonaka de li no ni",
+      "has_synced": true,
+      "path": "select/15_ヒューマノイド_Zutto_Mayonaka_de_li_no_ni.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_ヒューマノイド_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_ヒューマノイド_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_ヒューマノイド_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ヒューマノイド",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_ヒューマノイド_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
